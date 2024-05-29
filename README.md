@@ -13,3 +13,6 @@ streamlit run app.py
 ## Contribuir
 
 Las contribuciones son bienvenidas. Por favor, revisa el archivo CONTRIBUTING.md para más detalles.
+
+ ## Licencia
+Este proyecto está licenciado bajo la Apache License 2.0 - ver el archivo [LICENSE](LICENSE) para más detalles.
